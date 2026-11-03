@@ -1,2 +1,3 @@
 Ini adalah file kedua dalam praktikum Git.
 DIlakukan prakteknya dengan GUI Github Desktop
+File ini juga diedit langsung melalui website GitHub.
