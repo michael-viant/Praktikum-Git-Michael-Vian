@@ -1,2 +1,3 @@
 Nama: Michael Vian Tirta Wangsa
-Ini adalah file pertama pratikum git yang dilakukan
+Ini adalah file pertama praktikum Git dan GitHub.
+File ini diedit langsung melalui website GitHub.
