@@ -1,3 +1,4 @@
 Nama: Michael Vian Tirta Wangsa
-Ini adalah file pertama praktikum Git dan GitHub.
+Ini adalah file pertama untuk praktikum Git dan GitHub.
 File ini diedit langsung melalui website GitHub.
+Perubahan terbaru dibuat secara lokal melalui branch myBranch1.
